@@ -10,7 +10,7 @@ Dashboard of a company administrator with access to multiple features such as __
 
 The following commands need to be run to initialize the react app, and to download and install all _dependencies_ in the project:
 
-1) `npx create-react-app `__`<project-folder-name>`__
+1) `npx create-react-app <project-folder-name>`
 2) `npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/bar @nivo/line @nivo/geo`
 
 This will ensure that all dependencies are installed and the project is ready to go.
